@@ -67,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654799498409</updated>
-      <workItem from="1654799500920" duration="704000" />
+      <workItem from="1654799500920" duration="1039000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1654800101707</created>
@@ -83,7 +83,35 @@
       <option name="project" value="LOCAL" />
       <updated>1654800174921</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1654800244888</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654800244888</updated>
+    </task>
+    <task id="LOCAL-00004" summary="first commit">
+      <created>1654800317886</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654800317886</updated>
+    </task>
+    <task id="LOCAL-00005" summary="first commit">
+      <created>1654800468870</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654800468870</updated>
+    </task>
+    <task id="LOCAL-00006" summary="first commit">
+      <created>1654800493028</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654800493028</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
