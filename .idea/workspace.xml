@@ -26,6 +26,14 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="91b941e8-ed8e-42b7-b2bb-b42b63bcdaa6" />
+        <option name="url" value="git@github.com:jcjccc/JC.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="ProjectId" id="2ALr1fT4iwGwHQVePcyHUiEBDU8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
