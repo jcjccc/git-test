@@ -9,7 +9,7 @@ public class git {
         System.out.println("git@github.com:jcjccc/JC.git");
         System.out.println("git@github.com:jcjccc/JC.git");
         System.out.println("git@github.com:jcjccc/JC.git");
-
+         System.out.println("pull git~");
 
     }
 }
